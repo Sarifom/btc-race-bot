@@ -1,0 +1,3 @@
+cd /tmp/btc-race-bot
+git remote set-url origin git@github.com:Sarifom/btc-race-bot.git
+git push -u origin main
